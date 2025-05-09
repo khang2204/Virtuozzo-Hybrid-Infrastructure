@@ -15,7 +15,7 @@
 - **VM & Container** được quản lý qua Web UI và CLI
 - **Datastore** được cấu hình tiered (Tier 0–2)
 
-![Kiến trúc tổng quan](images/arch-diagram.png) <!-- Thêm ảnh kiến trúc nếu có -->
+![Kiến trúc tổng quan](architecture/arch-diagram.png)
 
 ## 🛠️ Công nghệ sử dụng
 - **Virtuozzo Hybrid Infrastructure**
