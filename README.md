@@ -51,5 +51,3 @@
 | Nguyễn Đặng Nguyên Khang | 22520617 |
 | Trần Vỹ Khang            | 22520628 |
 | Hồ Hoàng Diệp            | 22520249 |
-
-## 📁 Cấu trúc repo
