@@ -1,4 +1,4 @@
-# Virtuozzo Hybrid Infrastructure - Group 4 Project
+# Virtuozzo Hybrid Server - Group 4 Project
 
 > Triển khai hạ tầng ảo hóa sử dụng Virtuozzo, bao gồm quản lý VM, Container, lưu trữ phân tán, và kiểm thử tính sẵn sàng cao.
 
@@ -17,8 +17,16 @@
 
 ![Kiến trúc tổng quan](architecture/arch-diagram.png)
 
+## 📄 Tài liệu
+- [`Nhom4-Slide-Virtuozzo.pdf`](report/Nhom4-Slide-Virtuozzo.pdf) – Báo cáo chi tiết toàn bộ quá trình triển khai.
+
+## 📚 Tài liệu tham khảo
+- [Virtuozzo Hybrid Server 7 – Installation Guide](https://docs.virtuozzo.com/virtuozzo_hybrid_server_7_installation_guide/)
+
+> Tài liệu chính thức hướng dẫn cài đặt và cấu hình hệ thống Virtuozzo, được nhóm sử dụng làm nguồn tham khảo trong quá trình triển khai đồ án.
+
 ## 🛠️ Công nghệ sử dụng
-- **Virtuozzo Hybrid Infrastructure**
+- **Virtuozzo Hybrid Server**
 - **Virtuozzo Storage** (SDS, iSCSI, S3)
 - **Live Migration**, High Availability Cluster
 - **CRIU (Checkpoint/Restore In Userspace)**
